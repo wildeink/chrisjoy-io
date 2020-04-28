@@ -84,6 +84,18 @@ h3 {
   text-decoration: none;
   font-size: 18px;
 }
+
+.topnavProjects a {
+  float: left;
+  font-family: "Source Code Pro", sans-serif;
+  color: rgb(97, 235, 97);
+  text-align: center;
+  display: flex;
+  /* justify-content:sp; */
+  padding: 15px 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
 .btnlink{
   float: right;
   font-family: "Source Code Pro", sans-serif;

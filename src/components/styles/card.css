@@ -59,6 +59,12 @@ b{
   margin-top: 1%;
 }
 .gohome{
+  font-family: "Source Code Pro", sans-serif;
+  color: rgb(97, 235, 97);
+  /* justify-content:sp; */
+  padding: 15px 10px;
+  text-decoration: none;
+  font-size: 18px;
   align-items: center;
   display: flex;
   justify-content: center;

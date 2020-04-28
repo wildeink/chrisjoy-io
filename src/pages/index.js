@@ -9,7 +9,7 @@ const IndexPage = () => (
   <div>
   <Header />
   <div className="homepage">
-    <SEO title="Jonathan" />
+    <SEO title="Christopher" />
     <p className="intro1">Hi, my name is</p>
     <h2 className="introname">Chris Joy.</h2>
     

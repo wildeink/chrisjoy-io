@@ -6,7 +6,13 @@
     color: powderblue;
     font-family: 'Raleway', sans-serif;
     /* margin-top: 34%; */
-    margin-bottom: 0;
+    margin-bottom: 15px;
+}
+
+.ftrtext a {
+    font-family: "Source Code Pro", sans-serif;
+    color: rgb(97, 235, 97);
+    text-decoration: none;
 }
 .footerbody{
     bottom: 0;

@@ -19,7 +19,7 @@ const IndexPage = () => (
     Tôi được nói cả tiếng Anh lẫn tiếng Việt. Je parle Français aussi.</p>
     <div className="btnrow">
     <button className="button"><a className="btnlink" href="mailto:chris@chrisjoy.io">Get In Touch</a></button>
-    <button className="button"><a className="btnlink" href="#">&nbsp;Resume&nbsp;</a></button>
+    <button className="button"><a className="btnlink" href="/resume">&nbsp;Resume&nbsp;</a></button>
     </div>
     {/* <div style={{ maxWidth: `100px`, marginB `1.45rem` }}>
       <Image />
